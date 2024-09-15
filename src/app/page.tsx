@@ -33,7 +33,7 @@ function Hero() {
               href="/blog/radiant-raises-100m-series-a-from-tailwind-ventures"
               className="flex items-center gap-1 rounded-full bg-fuchsia-950/35 px-3 py-0.5 text-sm/6 font-medium text-white data-[hover]:bg-fuchsia-950/30"
             >
-              Cyferio raises $8000M Series A from A16z
+              Cyferio raises $8000M Series A from A16z Crypto
               <ChevronRightIcon className="size-4" />
             </Link>
           }
